@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
   # Redesign WebFX Website
 
@@ -9,3 +10,6 @@
 
   Run `npm run dev` to start the development server.
   
+=======
+# WebFx
+>>>>>>> 0486ff3f7963738c84cb4e66583c83f20f299747
